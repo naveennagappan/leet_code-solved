@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/naveennagappan/leet_code-solved/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/naveennagappan/leet_code-solved/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/naveennagappan/leet_code-solved/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/naveennagappan/leet_code-solved/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/naveennagappan/leet_code-solved/tree/master/1929-concatenation-of-array) |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/naveennagappan/leet_code-solved/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
