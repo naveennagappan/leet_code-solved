@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/naveennagappan/leet_code-solved/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naveennagappan/leet_code-solved/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/naveennagappan/leet_code-solved/tree/master/0347-top-k-frequent-elements) |
 | [1929-concatenation-of-array](https://github.com/naveennagappan/leet_code-solved/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 | [0169-majority-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naveennagappan/leet_code-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveennagappan/leet_code-solved/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/naveennagappan/leet_code-solved/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | [0169-majority-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naveennagappan/leet_code-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveennagappan/leet_code-solved/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/naveennagappan/leet_code-solved/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -55,10 +58,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/naveennagappan/leet_code-solved/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/naveennagappan/leet_code-solved/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -71,4 +76,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/naveennagappan/leet_code-solved/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naveennagappan/leet_code-solved/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naveennagappan/leet_code-solved/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naveennagappan/leet_code-solved/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
