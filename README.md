@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/naveennagappan/leet_code-solved/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/naveennagappan/leet_code-solved/tree/master/0075-sort-colors) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveennagappan/leet_code-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/naveennagappan/leet_code-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naveennagappan/leet_code-solved/tree/master/0217-contains-duplicate) |
@@ -99,4 +100,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/naveennagappan/leet_code-solved/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveennagappan/leet_code-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveennagappan/leet_code-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
