@@ -108,4 +108,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveennagappan/leet_code-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/naveennagappan/leet_code-solved/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
