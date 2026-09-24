@@ -15,7 +15,7 @@ class Solution {
             int current=map.get(s.charAt(i));
             //current vanthu chinnatha irukanum previous vo da na subtract pannaum
             if(current<prev){
-                sum=sum+(-current);
+                sum=sum-current;
             }
             else{
                 sum=sum+current;
