@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naveennagappan/leet_code-solved/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/naveennagappan/leet_code-solved/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/naveennagappan/leet_code-solved/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/naveennagappan/leet_code-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/naveennagappan/leet_code-solved/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/naveennagappan/leet_code-solved/tree/master/0013-roman-to-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/naveennagappan/leet_code-solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/naveennagappan/leet_code-solved/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/naveennagappan/leet_code-solved/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/naveennagappan/leet_code-solved/tree/master/0125-valid-palindrome) |
