@@ -34,6 +34,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/naveennagappan/leet_code-solved/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/naveennagappan/leet_code-solved/tree/master/0013-roman-to-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/naveennagappan/leet_code-solved/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/naveennagappan/leet_code-solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/naveennagappan/leet_code-solved/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/naveennagappan/leet_code-solved/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/naveennagappan/leet_code-solved/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveennagappan/leet_code-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/naveennagappan/leet_code-solved/tree/master/1903-largest-odd-number-in-string) |
 ## Database
 |  |
 | ------- |
