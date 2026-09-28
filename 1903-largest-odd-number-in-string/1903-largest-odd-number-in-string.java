@@ -13,6 +13,9 @@ class Solution {
             break;
         }
       }
+      if (end == -1) {
+      return "";
+      }
       return num.substring(start,end+1);
     }
 }
