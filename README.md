@@ -16,6 +16,7 @@
 | [0229-majority-element-ii](https://github.com/naveennagappan/leet_code-solved/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/naveennagappan/leet_code-solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/naveennagappan/leet_code-solved/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naveennagappan/leet_code-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/naveennagappan/leet_code-solved/tree/master/0455-assign-cookies) |
 | [1929-concatenation-of-array](https://github.com/naveennagappan/leet_code-solved/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -33,6 +34,7 @@
 | [0290-word-pattern](https://github.com/naveennagappan/leet_code-solved/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/naveennagappan/leet_code-solved/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveennagappan/leet_code-solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naveennagappan/leet_code-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
