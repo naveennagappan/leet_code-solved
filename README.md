@@ -32,6 +32,7 @@
 | [0242-valid-anagram](https://github.com/naveennagappan/leet_code-solved/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/naveennagappan/leet_code-solved/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/naveennagappan/leet_code-solved/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/naveennagappan/leet_code-solved/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0242-valid-anagram](https://github.com/naveennagappan/leet_code-solved/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/naveennagappan/leet_code-solved/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/naveennagappan/leet_code-solved/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/naveennagappan/leet_code-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/naveennagappan/leet_code-solved/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/naveennagappan/leet_code-solved/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -89,6 +91,7 @@
 | [0169-majority-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/naveennagappan/leet_code-solved/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/naveennagappan/leet_code-solved/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/naveennagappan/leet_code-solved/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -141,4 +144,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/naveennagappan/leet_code-solved/tree/master/0796-rotate-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/naveennagappan/leet_code-solved/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
