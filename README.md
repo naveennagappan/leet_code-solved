@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/naveennagappan/leet_code-solved/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/naveennagappan/leet_code-solved/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/naveennagappan/leet_code-solved/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/naveennagappan/leet_code-solved/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveennagappan/leet_code-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/naveennagappan/leet_code-solved/tree/master/0128-longest-consecutive-sequence) |
@@ -44,6 +45,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/naveennagappan/leet_code-solved/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/naveennagappan/leet_code-solved/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/naveennagappan/leet_code-solved/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/naveennagappan/leet_code-solved/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
