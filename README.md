@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/naveennagappan/leet_code-solved/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/naveennagappan/leet_code-solved/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/naveennagappan/leet_code-solved/tree/master/0075-sort-colors) |
+| [0119-pascals-triangle-ii](https://github.com/naveennagappan/leet_code-solved/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveennagappan/leet_code-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/naveennagappan/leet_code-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/naveennagappan/leet_code-solved/tree/master/0169-majority-element) |
@@ -133,6 +134,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/naveennagappan/leet_code-solved/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveennagappan/leet_code-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
